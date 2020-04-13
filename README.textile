@@ -1,7 +1,7 @@
 h1. Website
 
 Check out "Restfulie's website":http://restfulie.caelumobjects.com if you still did not.
- 
+
 h1. Restfulie: quit pretending
 
 CRUD through HTTP is a good step forward to using resources and becoming RESTful, another step further into it is to make use of hypermedia based services and this gem allows you to do it really fast.
